@@ -1,4 +1,4 @@
-# ATS Field Ops — Android App Showcase
+﻿# ATS Field Ops â€” Android App Showcase
 
 ![Flutter](https://img.shields.io/badge/Flutter-stable-02569B?logo=flutter)
 ![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth%20%2B%20Realtime-3FCF8E?logo=supabase)
@@ -38,7 +38,7 @@ flowchart LR
     A --> D[Local SQLite cache]
     A --> E[Local notification scheduler]
     A -->|voice typing| F[Gemini API]
-    A --> G[PDF / CSV export → share sheet]
+    A --> G[PDF / CSV export â†’ share sheet]
     H[GitHub Actions keepalive] --> C
 ```
 
@@ -62,3 +62,4 @@ See [`COMPETENCY_MAP.md`](./COMPETENCY_MAP.md) for how this build maps to cloud 
 ## Rights and permission
 
 Auto Tech Support has given written permission for this app to be presented publicly as a portfolio piece, including use of the company name. All data shown is seeded test data. No customer information, vehicle identifiers, staff names, or business figures appear in this repository or its linked media.
+
