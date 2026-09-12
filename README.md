@@ -1,4 +1,4 @@
-# ATS Field Ops â€” Android App Showcase
+# ATS Field Ops: Android App Showcase
 
 ![Flutter](https://img.shields.io/badge/Flutter-stable-02569B?logo=flutter)
 ![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth%20%2B%20Realtime-3FCF8E?logo=supabase)
@@ -39,7 +39,7 @@ flowchart LR
     A --> D[Local SQLite cache]
     A --> E[Local notification scheduler]
     A -->|voice typing| F[Gemini API]
-    A --> G[PDF / CSV export â†’ share sheet]
+    A --> G[PDF / CSV export to share sheet]
     H[GitHub Actions keepalive] --> C
 ```
 
