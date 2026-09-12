@@ -5,7 +5,11 @@
 ![Android](https://img.shields.io/badge/Android-signed%20release-3DDC84?logo=android)
 ![Status](https://img.shields.io/badge/status-live%20in%20production-E63946)
 
-I built and shipped this Android app solo for **Auto Tech Support**, a truck fitment and auto-electrical company in Johannesburg. It runs in daily production use by the field team: job scheduling, materials and tools kits, reminders, and PDF/CSV exports for their invoicing workflow. This repository is a curated showcase. The production repository is private, and every screenshot and video here uses seeded test data because real job records contain customer names.
+A small auto-electrical team in Johannesburg was running jobs off memory and paper. Technicians arrived on site missing parts, there was no proof that work had been completed, and the office phoned the owner for every job detail. I designed, built and shipped an Android app solo for **Auto Tech Support** that fixed all three, and it has been in daily production use since June 2026.
+
+[Read the full case study](CASE_STUDY.md)
+
+This repository is a curated showcase. The production repository is private, and every screenshot and video here uses seeded test data because real job records contain customer names.
 
 ## Tech stack
 
