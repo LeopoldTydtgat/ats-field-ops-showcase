@@ -45,13 +45,13 @@ flowchart LR
 
 ## Screenshots
 
-*(Seeded test data only. Consistent device frame, captioned.)*
+Seeded test data only.
 
-| | |
-|---|---|
-| Kits list | Job detail |
-| Job scheduler | Export sheet |
-
+| | | |
+|---|---|---|
+| <img src="docs/screenshots/01-kits-list.jpg" width="230"><br>**Kits list** | <img src="docs/screenshots/02-kit-detail.jpg" width="230"><br>**Kit detail** | <img src="docs/screenshots/03-kit-pdf-export.jpg" width="230"><br>**Exported kit PDF** |
+| <img src="docs/screenshots/04-jobs-list.jpg" width="230"><br>**Jobs list** | <img src="docs/screenshots/05-job-detail.jpg" width="230"><br>**Job detail** | <img src="docs/screenshots/06-job-checklist.jpg" width="230"><br>**Materials, tools and checklist** |
+| <img src="docs/screenshots/07-job-signoff.jpg" width="230"><br>**Photos and signature sign-off** | <img src="docs/screenshots/08-settings-notifications.jpg" width="230"><br>**Notification preferences** | <img src="docs/screenshots/09-settings-quiet-hours.jpg" width="230"><br>**Quiet hours** |
 ## Architecture Decision Records
 
 See [`/adr`](./adr) for the reasoning behind key choices: kit snapshot immutability, the notification ID scheme, Realtime reload strategy, Supabase free tier as the entire backend, release signing discipline, API key restriction, and pinned dependencies.
