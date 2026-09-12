@@ -1,4 +1,4 @@
-﻿# ATS Field Ops â€” Android App Showcase
+# ATS Field Ops â€” Android App Showcase
 
 ![Flutter](https://img.shields.io/badge/Flutter-stable-02569B?logo=flutter)
 ![Supabase](https://img.shields.io/badge/Supabase-Postgres%20%2B%20Auth%20%2B%20Realtime-3FCF8E?logo=supabase)
@@ -21,12 +21,13 @@ I built and shipped this Android app solo for **Auto Tech Support**, a truck fit
 | Exports | PDF and CSV via system share sheet |
 | Ops | GitHub Actions keepalive for the free-tier backend |
 
-## Demo videos
+## Demo
 
-- **Recruiter cut (~90 seconds):** [link]
-- **Technical walkthrough:** [link]
+![ATS demo](docs/ats-demo.gif)
 
-Both recorded on device with seeded test data.
+**Full walkthrough (2 minutes):** https://www.youtube.com/watch?v=pTQCMCLtmF4
+
+Recorded on device with seeded test data.
 
 ## Architecture
 
