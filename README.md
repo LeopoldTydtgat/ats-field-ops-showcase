@@ -62,5 +62,5 @@ See [`COMPETENCY_MAP.md`](./COMPETENCY_MAP.md) for how this build maps to cloud 
 
 ## Rights and permission
 
-Auto Tech Support has given written permission for this app to be presented publicly as a portfolio piece, including use of the company name. All data shown is seeded test data. No customer information, vehicle identifiers, staff names, or business figures appear in this repository or its linked media.
+Auto Tech Support has given written permission for this app to be presented publicly as a portfolio piece, including use of the company name. All data shown is seeded test data. No customer information, vehicle identifiers, or business figures appear in this repository or its linked media. The only name shown is the owner's, used with permission.
 
