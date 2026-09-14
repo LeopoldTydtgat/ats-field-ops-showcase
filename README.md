@@ -68,3 +68,9 @@ See [`COMPETENCY_MAP.md`](./COMPETENCY_MAP.md) for how this build maps to cloud 
 
 Auto Tech Support has given written permission for this app to be presented publicly as a portfolio piece, including use of the company name. All data shown is seeded test data. No customer information, vehicle identifiers, or business figures appear in this repository or its linked media. The only name shown is the owner's, used with permission.
 
+
+## Client feedback
+
+> "Before the app I kept everything in my head and on WhatsApp. When too many clients called in one day, jobs slipped through and I would forget to get back to people. Now every job is logged the moment it comes in, nothing gets lost, and I can see exactly what still needs attention. It has changed how we run the business."
+
+Jaques Scholtz, Owner, Auto Tech Support, Johannesburg
